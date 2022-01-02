@@ -96,6 +96,52 @@ Shipment Dimensions
 8 × 4 × 4 cm
 
 
+![image](https://user-images.githubusercontent.com/19898602/147870674-3ef835c0-d5f0-4792-93df-87c8d605c9c1.png)
+![image](https://user-images.githubusercontent.com/19898602/147870686-0dc923f3-46db-4690-a5b3-b5d202feb9cb.png)
+
+Now I have solder the wire to the BO DC motor and placed both of the motor on the wooden sheet
+
+I used 4 90 degree bracket to join all four profiles together, in this way it will look like frame of alu extrusion profile.
+Now I placed the previously cutted wooden sheet of 150 x 120 mm below to this frame and tight it with aluminium frame using T nut and bolt
+
+
+![image](https://user-images.githubusercontent.com/19898602/147870730-16657ba9-6439-4c10-882a-90475e91cbce.png)
+![image](https://user-images.githubusercontent.com/19898602/147870802-c26f87ce-4659-473b-97ec-e612c21c1d12.png)
+![image](https://user-images.githubusercontent.com/19898602/147870816-57f0c5f6-017a-45e7-94c1-313fed5258e5.png)
+
+![image](https://user-images.githubusercontent.com/19898602/147870748-043b5d3a-d311-47f7-b3b1-8723f28ca376.png)
+
+
+I have ordered PCB from [JLCPCB](https://jlcpcb.com/IAT )
+
+This is the link of [PCB editabl file](https://oshwlab.com/sharmaz747/multipurpose-pcb)
+
+If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
+They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
+If new user signup today from this link [JLCPCB](https://jlcpcb.com/IAT ) you will get 27$ coupon from [JLCPCB](https://jlcpcb.com/IAT ).
+
+
+Pulse Width Modulation PWM controller. PWM is a technique in which the amount of current going in a circuit can be controlled by
+
+chopping the Direct current using a gate or transistor that is changing its duty cycle( on-off time) you should see this article flashing of LED using 555 IC.
+
+This article is about how you can control the speed of a DC motor using PWM motor controller
+
+This PWM circuit can be easily found in our daily life equipment like mobile chargers, laptop adapters, inverters
+
+the power supply of desktop pcs, and in many other types of equipment in which steady low voltage is required.
+
+We use DC motors like DC fans in many systems in our daily life. For example, to cool the system, in power supply, etc. Most of the time we have to control its speed according to the requirement.
+
+There are many ways to do it. For example by inserting a series resistor to limit the current and hence limit the speed.
+
+But this is not a good way because in doing so, much of the power is wasted in the form of heat.
+
+If we use any microcontroller, then this is an expensive method that is not affordable and suitable for small motors.
+
+That’s why we use PWM which has high efficiency and accuracy.
+
+
 
 
 
