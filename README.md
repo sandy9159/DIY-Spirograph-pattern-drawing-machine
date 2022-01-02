@@ -142,6 +142,39 @@ If we use any microcontroller, then this is an expensive method that is not affo
 That’s why we use PWM which has high efficiency and accuracy.
 
 
+![image](https://user-images.githubusercontent.com/19898602/147870860-f503eea8-0aa8-449f-952b-e6558714ccf6.png)
+
+This is how place the PCB on the wooden sheet and placed a transparent 
+acrylic sheet on it
+This acrylic sheet will provide protection to the circut
+as well as I have paced 2 potentiometer and one toggle switch on it 
+In this way now its easy to used those electronics components
+
+![image](https://user-images.githubusercontent.com/19898602/147870926-13faa46f-6468-4f75-b951-a88158704ea7.png)
+![image](https://user-images.githubusercontent.com/19898602/147870936-5ffdd945-57b0-4e6f-9f45-025c030f861e.png)
+
+
+Now I have 3D printed some parts and cutted some more parts on my CNC machine.
+
+3D printed yellow part is going to be placed on one top corner BO DC motor
+slot on that part is used to tight bolt there and also we can place drawing arm on that
+
+and other circular disc cutting on CNC Machine will be fitted on center one DC motor.
+
+
+![image](https://user-images.githubusercontent.com/19898602/147871014-09ad86ec-b153-4d8e-8f76-d33b0f01c8a6.png)
+![image](https://user-images.githubusercontent.com/19898602/147871023-32747a5b-1a5b-4489-989b-4359298eb594.png)
+
+
+In this way machine construction is completed now we jaut have to place two white slotted arm
+and one papaer on the circular disc. and switch on the switch the machine will draw cool pattern you love to watch it forever.
+
+![MVI_0001_5](https://user-images.githubusercontent.com/19898602/147871092-a1fe5d1b-ab0f-4cc0-9076-faaa087f565f.gif)
+
+
+
+
+
 
 
 
