@@ -105,6 +105,19 @@ I used 4 90 degree bracket to join all four profiles together, in this way it wi
 Now I placed the previously cutted wooden sheet of 150 x 120 mm below to this frame and tight it with aluminium frame using T nut and bolt
 
 
+
+Pulse Width Modulation PWM controller. PWM is a technique in which the amount of current going in a circuit can be controlled by
+
+chopping the Direct current using a gate or transistor that is changing its duty cycle( on-off time) you should see this article flashing of LED using 555 IC.
+
+This PCB is to control the speed of a DC motor using PWM motor controller
+
+This PWM circuit can be easily found in our daily life equipment like mobile chargers, laptop adapters, inverters
+
+the power supply of desktop pcs, and in many other types of equipment in which steady low voltage is required.
+
+
+
 ![image](https://user-images.githubusercontent.com/19898602/147870730-16657ba9-6439-4c10-882a-90475e91cbce.png)
 ![image](https://user-images.githubusercontent.com/19898602/147870802-c26f87ce-4659-473b-97ec-e612c21c1d12.png)
 ![image](https://user-images.githubusercontent.com/19898602/147870816-57f0c5f6-017a-45e7-94c1-313fed5258e5.png)
@@ -125,7 +138,7 @@ Pulse Width Modulation PWM controller. PWM is a technique in which the amount of
 
 chopping the Direct current using a gate or transistor that is changing its duty cycle( on-off time) you should see this article flashing of LED using 555 IC.
 
-This article is about how you can control the speed of a DC motor using PWM motor controller
+This PCB is to control the speed of a DC motor using PWM motor controller
 
 This PWM circuit can be easily found in our daily life equipment like mobile chargers, laptop adapters, inverters
 
