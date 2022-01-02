@@ -17,13 +17,30 @@ The name has been a registered trademark of Hasbro Inc. since 1998 following pur
 # COMPONENT USED
 
 > BO DC MOTOR
+
+
 > COLOR PENS
+
+
 > 20 X 20 ALU. EXTRISIONS
+
+
 > DC MOTOR CONTROLLER PCB
+
+
 > ON/OFF TOGGLE SWITCH
+
+
 > 10K OHM POTENTIOMETER
+
+
+
 > 3D PRINTED PARTS 
+
+
 > NUT NBOLTS
+
+
 
 # PROCESS
 
